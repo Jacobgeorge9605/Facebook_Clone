@@ -1,0 +1,253 @@
+.header{
+    background-color:#3b5998;
+    height:120px;
+    width:100%;
+    margin:1px solid;
+}
+body{
+    margin:0;
+}
+.heading{
+    background-color:whitesmoke;
+    text-align: center;
+}
+.logo{
+  width:50%;
+  padding-top:20px;
+  float: left;
+}
+.login{
+    width:50%;
+    float: left;
+}
+.logo-text{
+    font-size: 60px;
+    color: #fff;
+    text-Decoration: none;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:190px;
+    margin-top:30px;
+    
+}
+.login-controls{
+    font-size:15px;
+    color:white;
+}
+.header {
+    background-color: #3b5998;
+    height: 120px;
+    width: 100%;
+    margin: 1px solid;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.heading {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 28px;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float: left;
+
+}
+
+.logo-text {
+    font-size: 65px;
+    color: #fff;
+    text-Decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 180px;
+    margin-top: 30px;
+
+}
+
+.login-controls {
+    font-size: 14px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 9px;
+}
+
+.forgot-label {
+    color: rgba(255, 255, 255, 0.668);
+    text-decoration: none;
+}
+
+.forgot-label:hover {
+    color: aliceblue;
+}
+
+.button-design {
+    background-color: rgba(51, 51, 148, 0.373);
+    color: white;
+    height: 22px;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 1px;
+    cursor: pointer;
+    border-color: blue
+}
+
+.button-design:hover {
+    background: rgb(55, 55, 166);
+    color: aqua
+}
+
+.email-inp {
+    margin-right: 15px;
+}
+
+.pass-inp {
+    margin-right: 15px;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 65px;
+    padding-top: 55px;
+}
+
+.right-section {
+    width: 44%;
+    float: left;
+}
+
+.main-body {
+    width: 100%;
+    height: 680px;
+    background: linear-gradient(white, #D3D8E8);
+}
+
+.image {
+    width: 600px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#input-rightsec {
+    width: 220px;
+    height: 38px;
+    border-radius: 6px;
+    border-color: whitesmoke;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+#input-rightsec2 {
+    width: 472px;
+    height: 29px;
+    border-radius: 6px;
+    border-color: whitesmoke;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+.head1 {
+    font-size: 30px;
+}
+
+.head2 {
+    font-size: 20px;
+}
+
+::placeholder {
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15;
+    padding: 10px;;
+}
+
+.boxvalue {
+    width: 13px;
+    height: 19px;
+}
+
+.bday {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    height: 28px;
+    width: 52px;
+}
+
+#dob {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bdaydes {
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+select {
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+input[type=radio] {
+
+    width: 35px;
+    height: 20px;
+}
+
+#gender {
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.valida {
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lastbtn{
+    width:198px;
+    height:40px;
+    background-color: rgb(8, 171, 8);
+    border-radius: 8px;
+    cursor: pointer;
+    color:white;
+    font-size: 25px;
+    border-color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lastbtn:hover{
+    width:198px;
+    height:42px;
+    background-color: rgb(12, 175, 12);
+}
+.lastpara{
+    cursor: pointer;
+    /* font-size: 20px; */
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
